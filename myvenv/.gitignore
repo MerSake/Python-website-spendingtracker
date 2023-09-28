@@ -1,0 +1,9 @@
+.vscode/
+instance/
+website/__pycache__/
+monthly_cal/
+website/templates/monthlyExpenses.html
+monthly_cal.txt
+Scripts/
+Lib
+pyvenv.cfg
