@@ -1,8 +1,54 @@
-.spendings-container {
-  padding: 10px;
-  margin: 20px;
-  position: relative;
+body {
+  background-color: seashell;
 }
 
-.insights-container {
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-group input[type="number"]:hover {
+  outline: none;
+  box-shadow: 0 0 5px #aaa;
+}
+
+.input-group input[type="number"] {
+  text-align: center;
+  padding: 5px;
+  width: 160px;
+  height: 40px;
+  margin: 3px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notes-textarea {
+  width: 330px;
+  height: 90px;
+  border-radius: 5px;
+  resize: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.btn {
+  width: 170px;
+  margin-left: 85px;
+}
+.btn-con {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.chart {
+  height: 700px;
+  margin-bottom: 7%;
+  background-color: aquamarine;
 }

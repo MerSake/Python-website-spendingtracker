@@ -1,0 +1,8 @@
+myvenv/var/website-instance/database.db
+.vscode/
+myvenv/website/__pycache__/
+myvenv/website/templates/monthlyExpenses.html
+myvenv/Scripts/
+myvenv/Lib
+myvenv/pyvenv.cfg
+myvenv/Include/site/python3.11/greenlet/greenlet.h
