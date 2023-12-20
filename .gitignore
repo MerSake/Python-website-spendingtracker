@@ -6,3 +6,4 @@ myvenv/Scripts/
 myvenv/Lib
 myvenv/pyvenv.cfg
 myvenv/Include/site/python3.11/greenlet/greenlet.h
+.vscode
